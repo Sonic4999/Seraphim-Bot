@@ -1,5 +1,5 @@
-# EOL Notice
-While I may come back to this one day, there seems to various issues with the bot that I cannot fix, ESPECIALLY with database syncing issues. It was fun while it lasted.
+# postgre_ver Notice
+This is an experimental branch in order to see if using PostgreSQL over MySQL will fix any of the problems with the bot. If this fails, then the project is truely dead.
 
 # Seraphim
 
